@@ -7,10 +7,9 @@ Project developed as part of the 42 Lisboa curriculum.
 
 Sort a stack of integers using a limited set of operations and the smallest number of moves possible.
 
-This project is divided into two programs:
+This project is composed of a program program:
 
-1. `push_swap`: Generates the list of operations to sort the stack.
-2. `checker`: Verifies if a given sequence of operations sorts the stack correctly.
+- `push_swap`: Generates the list of operations to sort the stack.
 
 ## 📦 Allowed Operations
 
@@ -26,7 +25,6 @@ This project is divided into two programs:
   - Hardcoded logic for 2–5 elements
   - Optimized radix sort for larger datasets
 - Efficient use of operations to minimize total moves
-- Bonus: `checker` program to validate move sequences
 
 ## 🛠️ How to Compile
 
